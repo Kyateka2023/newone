@@ -1,0 +1,13 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
+
+
+Facebook icon:  <i class="fa-brands fa-facebook"></i>
+
+Instagram icon: <i class="fa-brands fa-instagram"></i>
+
+Twitter icon:  <i class="fa-brands fa-twitter"></i>
+
+Google icon:    <i class="fa-brands fa-google"></i>
+
+Skype icon:  <i class="fa-brands fa-skype"></i>
+
